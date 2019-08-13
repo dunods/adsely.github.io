@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adsely.github.io/static/css/main.c6e91c03.chunk.css",
+    "main.js": "/adsely.github.io/static/js/main.77718f45.chunk.js",
+    "main.js.map": "/adsely.github.io/static/js/main.77718f45.chunk.js.map",
+    "runtime~main.js": "/adsely.github.io/static/js/runtime~main.9b699ab2.js",
+    "runtime~main.js.map": "/adsely.github.io/static/js/runtime~main.9b699ab2.js.map",
+    "static/js/2.1bd03c25.chunk.js": "/adsely.github.io/static/js/2.1bd03c25.chunk.js",
+    "static/js/2.1bd03c25.chunk.js.map": "/adsely.github.io/static/js/2.1bd03c25.chunk.js.map",
+    "index.html": "/adsely.github.io/index.html",
+    "precache-manifest.8a1ad0f3232b4d6d0f43155180b020cf.js": "/adsely.github.io/precache-manifest.8a1ad0f3232b4d6d0f43155180b020cf.js",
+    "service-worker.js": "/adsely.github.io/service-worker.js",
+    "static/css/main.c6e91c03.chunk.css.map": "/adsely.github.io/static/css/main.c6e91c03.chunk.css.map",
+    "static/media/adsely-white.png": "/adsely.github.io/static/media/adsely-white.8e20e918.png",
+    "static/media/argon-react.png": "/adsely.github.io/static/media/argon-react.f38ddea9.png",
+    "static/media/font-awesome.min.css": "/adsely.github.io/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/adsely.github.io/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/adsely.github.io/static/media/google.87be59a1.svg",
+    "static/media/nucleo.css": "/adsely.github.io/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/team-4-800x800.jpg": "/adsely.github.io/static/media/team-4-800x800.23007132.jpg"
+  }
+}

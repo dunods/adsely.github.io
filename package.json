@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
   },
-  "homepage": "https://dunods.github.io/adsely.github.io",
+  "homepage": "https://dunods.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
